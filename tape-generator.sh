@@ -68,7 +68,7 @@ Set TypingSpeed 60ms
 Hide
 Type "source ~/.bashrc"
 Enter
-Type "cd $TARGET_DIR"
+Type "cd $PROJECT_DIR"
 Enter
 Ctrl+L
 Show
